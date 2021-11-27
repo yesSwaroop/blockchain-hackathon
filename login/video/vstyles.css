@@ -1,0 +1,17 @@
+body{
+    background-color: #2d283e;
+}
+
+#Navbar{
+    padding: 1%;
+}
+.video{
+    padding: 5%;
+    background-color: ;
+}
+@media screen and (max-width: 992px) {
+    .border{
+        padding:4%;
+    }
+    
+  }
